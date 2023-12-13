@@ -8,6 +8,7 @@
 #include "SyscallProcessUtils.h"
 #include "SW2_Syscalls.h"
 #include "Undoc.h"
+#include "ProcessDump.h"
 
 #include "ProcessDumpDirectSyscalls.h"
 
